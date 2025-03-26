@@ -15,11 +15,6 @@ Program sederhana untuk analisis data dasar dengan Python yang dikembangkan di V
   - 🔴 Merah untuk nilai > 50
   - 🔵 Biru untuk nilai ≤ 50
 
-## 🛠️ Setup di VSCode
-
-1. **Buka Project**:
-   ```bash
-   code .
 
    🖥️ Contoh Penggunaan# Input
    
